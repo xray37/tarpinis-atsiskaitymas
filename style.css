@@ -373,8 +373,10 @@ ul {
 .right {
     margin-right: 150px;
     text-decoration: none;
-  
-    
+}
+
+.right a {
+    text-decoration: none;
 }
 
 .footer-img {
